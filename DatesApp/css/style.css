@@ -26,6 +26,10 @@ main {
     padding: 5px;
 }
 
+.card-title, .add-labor-list-btn, .create-labor-list-btn {
+    font-family: '../fonts/FreeMonoBold.ttf';
+}
+
 .main-title,
 .description-text {
     color: var(--text-color-alternative);
